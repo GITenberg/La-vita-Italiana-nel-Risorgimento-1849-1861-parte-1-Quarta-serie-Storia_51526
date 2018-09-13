@@ -1,0 +1,30 @@
+_repo: La-vita-Italiana-nel-Risorgimento-1849-1861-parte-1-Quarta-serie-Storia_51526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2016-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51526'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 1849-1870'
+- !lcsh 'Italy -- Civilization -- 19th century'
+- !lcc 'DG'
+- !lcsh 'Italian literature -- 19th century'
+- !lcsh 'Italy -- Intellectual life -- 19th century'
+- GITenberg
+tableOfContents: Federazione e unità / Ernesto Masi -- Gli eroi della rivoluzione
+  / Francesco S. Nitti -- Dalle dieci giornate di Brescia alla battaglia di San Martino
+  / Pompeo Molmenti -- Il re galantuomo / Domenico Oliva.
+title: "La vita Italiana nel Risorgimento (1849-1861), parte 1\r\nQuarta serie - Storia"
+url: http://www.gutenberg.org/ebooks/51526
